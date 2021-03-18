@@ -1,0 +1,16 @@
+com\paypal\bfs\test\employeeserv\api\model\Employee.class
+com\paypal\bfs\test\employeeserv\api\IEmployeeService.class
+com\paypal\bfs\test\employeeserv\impl\AddressService.class
+com\paypal\bfs\test\employeeserv\impl\EmployeeService.class
+com\paypal\bfs\test\employeeserv\api\EmployeeResource.class
+com\paypal\bfs\test\employeeserv\model\Address.class
+com\paypal\bfs\test\employeeserv\api\IAddressService.class
+com\paypal\bfs\test\employeeserv\model\EmployeeResponse.class
+com\paypal\bfs\test\employeeserv\mapper\Mapper.class
+com\paypal\bfs\test\employeeserv\model\Employee.class
+com\paypal\bfs\test\employeeserv\impl\EmployeeManagerService.class
+com\paypal\bfs\test\employeeserv\dao\impl\EmployeeRepository.class
+com\paypal\bfs\test\employeeserv\dao\model\EmployeeEntity.class
+com\paypal\bfs\test\employeeserv\dao\impl\AddressRepository.class
+com\paypal\bfs\test\employeeserv\dao\model\AddressEntity.class
+com\paypal\bfs\test\employeeserv\api\IEmployeeManagerService.class
